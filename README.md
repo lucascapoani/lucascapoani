@@ -5,6 +5,8 @@
 - 💻 Estudando Javascript e ReactJS;
 - 🔎 Buscando oportunidades como Desenvolvedor Front-End;
 
+<hr>
+
 <div align="left" margin="auto">
   <a href="https://github.com/lucascapoani">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascapoani&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascapoani&layout=compact&langs_count=7&theme=nord"/>
@@ -17,3 +19,4 @@
   <img align="center" alt="lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
 </div>
+<hr>
